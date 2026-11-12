@@ -185,9 +185,9 @@ footer {
 /* markdown content */
 
 /* markdown cannot add classes, so the first paragraph after a headline gets the light style this way */
-main h2 + p {
+/* main h2 + p {
   font-weight: 200;
-}
+} */
 
 /* the resets at the top remove link colours and bullets everywhere, so we give them back inside main */
 main a {
@@ -229,3 +229,27 @@ main img {
 }
 
 #page_two h2 { color: var(--red); }
+
+/* Justify the paragraphs */
+#content p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* Reference list left-aligned */
+.reference-section p {
+  text-align: left;
+}
+
+.reference-section {
+  font-size: 0.85em; 
+  line-height: 1; 
+  border-top: 2px solid #ccc; 
+  margin-top: 2em;
+}
+
+/* Hanging indent in reference list */
+.reference-section p {
+  padding-left: 2em;
+  text-indent: -2em;
+}
