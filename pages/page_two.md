@@ -1,12 +1,9 @@
 # Page two
 
-## This is the headline of your second page
+## *What are the disadvantages of open source software?*
 
-The text on this page is written in the file **pages/page_two.md**. The first line, starting with a single #, becomes the heading in the banner.
+Despite the many benefits of open source software, some of the very same advantages result in certain disadvantages. Because open source software is so community focused with volunteer maintainers being common, it can run the risk of these maintainers implementing malicious code or similar. In theory, this should be quite difficult since the code is publicly available and generally code suggestions are only pushed by trustworthy individuals. However, this does always not prevent such cases from happening. 
 
-There is only one HTML file, index.html. It holds the frame around the text: the navigation, the banner and the footer. The link in the navigation decides which markdown file is shown inside the frame. The words themselves live in a markdown file, which is much quicker to write than HTML. Many websites work the same way: the content is kept separately from the page that displays it.
+One of the most notable cases is the XZ backdoor incident in Linux systems. In this instance, an individual was able to gain trust and commit access over two years, allowing them to gradually implement hidden malicious code. While the common use of volunteer maintainers is what resulted in this backdoor incident, the code being publicly available is also what allowed for the harmful code to be found before any major damage happened (Carter, 2024).
 
-### Another headline
-
-1. Numbered lists work too
-2. Just start the lines with numbers
+When looking at open source software from the viewpoint of the government, municipalities, or similar, the code being publicly available can become a disadvantage, a liability. Many of these actors do not have the technical know how to write code themselves or the ability to evaluate the code used internally. It is therefore preferable to not get their code scrutinized by highly-technical and critical eyes which could hurt their public image and trust (Balter, 2014).  
