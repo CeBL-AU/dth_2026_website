@@ -16,7 +16,7 @@ This ties into the last benefit: community. There is a large community behind op
 
 ### References
 
-<a id="ref-wilkins"></a> Wilkins, J. (2021, August 17). *What is Open Source Software? OSS Explained in Plain English*. freeCodeCamp. Retrieved November 11, 2026, from https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/ 
+<a id="ref-wilkins"></a> Wilkins, J. (2021, August 17). *What is Open Source Software? OSS Explained in Plain English*. freeCodeCamp. https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/ 
 
 </div>
 

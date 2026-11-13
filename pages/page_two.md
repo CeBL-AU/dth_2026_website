@@ -12,8 +12,8 @@ When looking at open source software from the viewpoint of the government, munic
 
 ### References
 
-<a id="ref-carter"></a> Carter, A. (2024, April 17). *XZ Backdoor: The full story in one place*. Daily.Dev. Retrieved November 11, 2026, from https://daily.dev/blog/xz-backdoor-the-full-story-in-one-place/
+<a id="ref-carter"></a> Carter, A. (2024, April 17). *XZ Backdoor: The full story in one place*. Daily.Dev. https://daily.dev/blog/xz-backdoor-the-full-story-in-one-place/
 
-<a id="ref-balter"></a> Balter, B. (2014, August 14). *Why isn’t all government software open source?* Opensource. Retrieved November 11, 2026, from https://opensource.com/government/14/8/why-isnt-all-government-software-open-source
+<a id="ref-balter"></a> Balter, B. (2014, August 14). *Why isn’t all government software open source?* Opensource. https://opensource.com/government/14/8/why-isnt-all-government-software-open-source
 
 </div>
