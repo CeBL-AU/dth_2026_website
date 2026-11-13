@@ -37,5 +37,7 @@ fetch(file)
 
 // Counts the characters a reader sees, including spaces, but not the markdown symbols.
 function countCharacters(text) {
-  return text.replace(/\s+/g, " ").trim().length;
+  // Splits the text at the reference segment and only counts the first part //
+  const textWithoutReferences = text.split('References')[0];
+  return textWithoutReferences.replace(/\s+/g, " ").trim().length;
 }
