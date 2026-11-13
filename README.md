@@ -1,4 +1,4 @@
-This is a website project for the Aarhus University master's course **"Digital Technologies in the Humanities"**. 
+This is a website project for the Aarhus University master's course "[Digital Technologies in the Humanities](https://kursuskatalog.au.dk/da/course/143815/Digital-Technologies-in-the-Humanities)". 
 
 The project currenlty includes the submission for Assignment 2, with Assignment 3 to be added later. 
 
